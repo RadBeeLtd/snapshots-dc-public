@@ -23,7 +23,7 @@
 - Download file with JQL examples, fix it if needed
 - Execute the script using the following command:
   ```bash
-  ./jira_jql_search_script.sh <JQLs_FILE> <JIRA_URL> <USERNAME> <PASSWORD>
+  ./jira_jql_search_script.sh <JQLs_FILE> <JIRA_URL> '<USERNAME>' '<PASSWORD>'
 - Provide the appropriate arguments for `<JQLs_FILE>`, `<JIRA_URL>`, `<USERNAME>`, and `<PASSWORD>`.
 
 ## 5. **Example**
