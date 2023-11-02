@@ -1,0 +1,48 @@
+Project = SUN and issuetype = EPIC
+"Epic Link" = SUN-64
+"Epic Link" = SUN-63
+"Epic Link" = SUN-59
+"Epic Link" = SUN-55
+"Epic Link" = SUN-53
+"Epic Link" = SUN-50
+"Epic Link" = SUN-46
+Project = SUN and issuetype = EPIC
+"Epic Link" = SUN-64
+"Epic Link" = SUN-63
+"Epic Link" = SUN-59
+"Epic Link" = SUN-55
+"Epic Link" = SUN-53
+"Epic Link" = SUN-50
+"Epic Link" = SUN-46
+"Epic Link" = SUN-44
+"Epic Link" = SUN-43
+"Epic Link" = SUN-42
+"Epic Link" = SUN-35
+"Epic Link" = SUN-34
+"Epic Link" = SUN-30
+"Epic Link" = SUN-29
+"Epic Link" = SUN-28
+"Epic Link" = SUN-26
+"Epic Link" = SUN-24
+"Epic Link" = SUN-10
+"Epic Link" = SUN-8
+Project = DCTZ AND component = 14971 ORDER BY description ASC
+issue in linkedIssues(DCTZ-154,"relates to") and Component = RXP ORDER BY description ASC
+issue in linkedIssues(DCTZ-155,"relates to") and Component = RXP ORDER BY description ASC
+issue in linkedIssues(DCTZ-153,"relates to") and Component = RXP ORDER BY description ASC
+issue in linkedIssues(DCTZ-159,"relates to") and Component = RXP ORDER BY description ASC
+issue in linkedIssues(DCTZ-158,"relates to") and Component = RXP ORDER BY description ASC
+issue in linkedIssues(DCTZ-157,"relates to") and Component = RXP ORDER BY description ASC
+issue in linkedIssues(DCTZ-156,"relates to") and Component = RXP ORDER BY description ASC
+Project = DCTZ AND component = 14971 ORDER BY description ASC
+Project = SUN and issuetype = EPIC
+"Epic Link" = SUN-64
+"Epic Link" = SUN-63
+"Epic Link" = SUN-59
+"Epic Link" = SUN-55
+"Epic Link" = SUN-53
+"Epic Link" = SUN-50
+"Epic Link" = SUN-46
+"Epic Link" = SUN-44
+"Epic Link" = SUN-43
+"Epic Link" = SUN-42
